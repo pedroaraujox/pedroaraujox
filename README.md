@@ -20,10 +20,10 @@
 
 ## 🚀 Minhas Ferramentas e Tecnologias
 
-<table align="center">
-  <tr>
-    <td colspan="4" align="center"><strong>🖥️ Frontend</strong></td>
-  </tr>
+<div align="center">
+
+<h3 align="center">🖥️ Frontend</h3>
+<table align="center" border="0">
   <tr align="center">
     <td width="120">
       <a href="https://react.dev/" target="_blank" title="React">
@@ -72,9 +72,10 @@
     <td width="120">
       </td>
   </tr>
-  <tr>
-    <td colspan="4" align="center"><strong>⚙️ Backend & Banco de Dados</strong></td>
-  </tr>
+</table>
+
+<h3 align="center">⚙️ Backend & Banco de Dados</h3>
+<table align="center" border="0">
   <tr align="center">
     <td width="120">
       <a href="https://www.python.org/" target="_blank" title="Python">
@@ -101,9 +102,10 @@
       <br>SQLite
     </td>
   </tr>
-    <tr>
-    <td colspan="4" align="center"><strong>☁️ Deploy & Cloud</strong></td>
-  </tr>
+</table>
+
+<h3 align="center">☁️ Deploy & Cloud</h3>
+<table align="center" border="0">
   <tr align="center">
     <td width="120">
       <a href="https://aws.amazon.com/" target="_blank" title="AWS (Amazon Web Services)">
@@ -127,6 +129,8 @@
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
