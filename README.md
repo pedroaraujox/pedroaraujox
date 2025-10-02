@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://pedroaraujox.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse%20meu%20Portfólio%20Interativo-58a6ff?style=for-the-badge&logo=rocket&logoColor=white" alt="Botão para o Portfólio"/>
+  </a>
+</div>
+
+<div align="center">
 
 # 👋 Olá, eu sou o Pedro Araújo
 
@@ -153,8 +159,8 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroaraujox&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Estatísticas do GitHub do Pedro" title="Minhas Estatísticas no GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaraujox&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens mais usadas pelo Pedro" title="Minhas Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroaraujox&show_icons=true&theme=catppuccin_latte&hide_border=true&border_radius=10&count_private=true&title_color=31748f&icon_color=31748f" alt="Estatísticas do GitHub do Pedro" title="Minhas Estatísticas no GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaraujox&layout=compact&theme=catppuccin_latte&hide_border=true&border_radius=10&title_color=31748f" alt="Linguagens mais usadas pelo Pedro" title="Minhas Linguagens Mais Usadas" />
 </p>
 
 ---
