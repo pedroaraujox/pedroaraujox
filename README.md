@@ -21,37 +21,37 @@
 <div align="center">
 
 ### 🖥️ Frontend
-<a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo" /></a>
+<a href="https://react.dev/" target="_blank" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://vitejs.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="Vite logo"  /></a>
+<a href="https://vitejs.dev/" target="_blank" title="Vite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="Vite logo"  /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.chartjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js logo" /></a>
+<a href="https://www.chartjs.org/" target="_blank" title="Chart.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" height="40" alt="Chart.js logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://recharts.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="Recharts (React) logo" /></a>
+<a href="https://recharts.org/" target="_blank" title="Recharts"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="Recharts (React) logo" /></a>
 
 ### ⚙️ Backend & Banco de Dados
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" /></a>
+<a href="https://www.python.org/" target="_blank" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask logo" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" title="Flask"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Flask logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" /></a>
+<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" /></a>
+<a href="https://www.sqlite.org/index.html" target="_blank" title="SQLite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" /></a>
 
 ### ☁️ Deploy & Cloud
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" /></a>
+<a href="https://aws.amazon.com/" target="_blank" title="AWS (Amazon Web Services)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://vercel.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel logo" /></a>
+<a href="https://vercel.com/" target="_blank" title="Vercel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="40" alt="Vercel logo" /></a>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" title="Render"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" title="Gunicorn"/>
 
 </div>
 
@@ -82,8 +82,8 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroaraujox&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Estatísticas do GitHub do Pedro" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaraujox&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens mais usadas pelo Pedro" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pedroaraujox&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="Estatísticas do GitHub do Pedro" title="Minhas Estatísticas no GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaraujox&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens mais usadas pelo Pedro" title="Minhas Linguagens Mais Usadas" />
 </p>
 
 ---
@@ -91,10 +91,10 @@
 ## 🌐 Conecte-se Comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedroaraujox/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedroaraujox/" target="_blank" title="Conecte-se comigo no LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:pa8088253@gmail.com" target="_blank">
+  <a href="mailto:pa8088253@gmail.com" target="_blank" title="Me envie um e-mail">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
