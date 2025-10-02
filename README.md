@@ -49,14 +49,14 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroAraujo&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAraujo&layout=compact&theme=tokyonight)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroaraujox&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroaraujox&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌐 Contatos  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroaraujox/)  
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:pa8088253@gmail.com)  
 
 ---
